@@ -1,4 +1,4 @@
-# Instalaciones recomendadas - Angular Avanzado
+# Instalaciones recomendadas - Angular
 
 ## Instalaciones Necesarias
 * [Google Chrome](https://www.google.com/chrome/)
